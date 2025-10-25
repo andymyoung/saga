@@ -1,0 +1,8 @@
+# Obsidian device-specific files
+.obsidian/workspace.json
+.obsidian/app.json
+
+# Plugin caches (optional but wise)
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/cache.json
+

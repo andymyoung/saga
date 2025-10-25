@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3772f3c090b42183","x":-540,"y":-620,"width":250,"height":201,"type":"text","text":"Fu the bar\n\nWhar?\n"},
+		{"id":"efa296fbbb291878","x":-540,"y":-340,"width":250,"height":60,"type":"text","text":"wu the who?"}
+	],
+	"edges":[]
+}
